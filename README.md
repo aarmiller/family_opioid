@@ -88,6 +88,12 @@
 * If possible stratify by fatal and non-fatal?
 * Maybe also look at both overdoses and dependence abuse sperately?
 * Use data driven approach to classify chronic and acute opioid use (< 30 day as cutoff for acute?), then stratify by chronic vs acute (or add interaction term)
-
-
-
+* Use DEA Classification somehow? 
+	1) Class I (not submitted in Red - Book)
+	2) Class II (high abuse potential, severe dependence liability)
+	3) Class III (less abuse potential, moderate dependence liability)
+	4) Class IV (less abuse potential, limited dependence liability)
+	5) Class V (low abuse potential, RX or OTC)
+	6) RX (not classified under the Controlled Substances Act)
+	7) OTC Product (nonprescription; all other over the counter products)
+	8) Other/unavailable Missing: Did not tag
